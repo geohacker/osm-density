@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/geohacker/osm-density",
   "dependencies": {
+    "minimist": "^1.2.0",
     "tile-reduce": "^3.0.2",
+    "tilebelt": "^1.0.1",
     "turf": "^2.0.2"
   }
 }

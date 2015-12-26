@@ -6,8 +6,8 @@ var argv = require('minimist')(process.argv.slice(2));
 var mbtilesPath = argv.mbtiles;
 
 var opts = {
-    zoom: 12,
-    bbox: [72.334, 7.068, 89.539, 16.973],
+    zoom: 15,
+    bbox: [68.599, 7.014, 92.461, 22.736],
     sources: [
     {
         name: 'osm',
